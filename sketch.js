@@ -127,6 +127,6 @@ function obstacle1() {
     spirit1.scale = 0.15;
     spirit1.velocityX = -6
     spirit1.lifetime = 300;
-    spiritGroup.add(spirit1)
+    spirit.add(spirit1)
   }
 }
